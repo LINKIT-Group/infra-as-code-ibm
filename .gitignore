@@ -35,3 +35,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk%
+
+# Terraform
+.terraform
+*.tfstate
+*.tfstate.backup
