@@ -29,6 +29,8 @@ Feel free to use a cloud instance that you can easily spawn, [Docker](https://ww
 
 And of course, you need [Ansible](https://www.ansible.com/) installed. Follow along [here](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) to install the latest version for your Linux system (_Windows people, sorry, it only runs on Linux_).
 
+On the hands-on session I will also use terraform to provide some instances on the fly and make the scripts available. If you want, you can create a [1st AWS account for Free Tier](https://aws.amazon.com/free/) and [setup Terraform on your machine](https://www.terraform.io/intro/getting-started/install.html).
+
 -------------------
 
 ## Troubles/Feedback
