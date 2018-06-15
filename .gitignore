@@ -40,3 +40,11 @@ $RECYCLE.BIN/
 .terraform
 *.tfstate
 *.tfstate.backup
+
+# Vagrant
+.vagrant
+Vagrantfile
+
+# openssl
+*.crt
+*.key
