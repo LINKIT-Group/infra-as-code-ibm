@@ -1,0 +1,5 @@
+[webservers]
+ec2-54-229-46-76.eu-west-1.compute.amazonaws.com 
+
+[dbservers]
+ec2-34-244-152-38.eu-west-1.compute.amazonaws.com
