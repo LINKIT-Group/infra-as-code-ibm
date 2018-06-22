@@ -43,7 +43,6 @@ $RECYCLE.BIN/
 
 # Vagrant
 .vagrant
-Vagrantfile
 
 # openssl
 *.crt
