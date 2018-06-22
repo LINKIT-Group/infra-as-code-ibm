@@ -1,7 +1,6 @@
 # Infrastructure as code instructions for the IBM crash course
 
 ## Agenda
-> UNDER CONSTRUCTION
 
 **16:00 - 17:00** 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Welcome and coffee to get it started!
